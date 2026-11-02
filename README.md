@@ -26,6 +26,7 @@ AI 产品经理，喜欢把想法做成可以体验的作品，也记录技术�
 
 | 项目名称 | 项目简介 |
 | --- | --- |
+| [earth-letters](https://github.com/wanchenghhh/earth-letters) | 地球来信：从太空出发，探索真实地点的影像与地理故事。 |
 | [webpagedesign](https://github.com/wanchenghhh/webpagedesign) | 准了 · 星空产品概念落地页，包含星盘与交互演示。 |
 
 ---
@@ -41,7 +42,20 @@ AI 产品经理，喜欢把想法做成可以体验的作品，也记录技术�
 
 ---
 
+## 🏷️ 技能与标签
+
+**专业方向**：AI 产品 · 产品拆解 · GIS · 技术写作 · Web 设计
+
+**前端**：HTML5 · CSS3 · JavaScript · TypeScript · React
+
+**后端与 AI**：Python · FastAPI · Node.js · LangChain · RAG · OpenAI
+
+**数据与部署**：PostgreSQL · Redis · Docker · Vercel · GitHub Pages
+
+---
+
 ## 🧰 常用工具
 
 - [Pi Agent](https://pi.dev/)：在终端里与 AI 一起工作。
 - [GitHub Pages](https://pages.github.com/)：发布和维护个人网站。
+
