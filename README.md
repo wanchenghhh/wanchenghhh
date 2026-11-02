@@ -6,19 +6,12 @@ AI 产品经理，喜欢把想法做成可以体验的作品，也记录技术�
 
 🌐 [个人网站](https://wanchenghhh.github.io/) · 📝 公众号：椀程说 · 📮 yangwanchengchn@163.com
 
-🔭 **正在做：** 企业知识中台（RAG）、AI work 工作台 
-🧭 **关注：** Agent、世界模型、AI 产品体验  
+🔭 **正在做：** 企业知识中台（RAG）、AI work 工作台  
 🎯 **擅长：** 需求分析 → 原型 → 自己做出可运行的 Demo
 
 ---
 
 ## 🛠️ 项目
-
-**⭐ 代表作：[知序知识中台](https://github.com/wanchenghhh/zhixu-knowledge-hub)**
-
-企业知识中台：导入 → 检索 → 重排 → 流式问答。React + FastAPI + LangChain。
-
-[在线演示](https://zhixu-knowledge-hub-wan-cheng.vercel.app) · [方案说明](https://github.com/wanchenghhh/zhixu-knowledge-hub/blob/main/docs/02-%E7%9F%A5%E8%AF%86%E5%BA%93%E4%B8%AD%E5%8F%B01.0%E6%96%B9%E6%A1%88.md) · [云端部署与验收](https://github.com/wanchenghhh/zhixu-knowledge-hub/blob/main/docs/06-v1.1%E4%BA%91%E7%AB%AF%E7%9C%9F%E5%AE%9ERAG.md)
 
 ### 🤖 AI 应用
 
