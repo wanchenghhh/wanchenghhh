@@ -41,9 +41,6 @@
 
 ## 🚀 项目
 
-- 🌐 **[wanchenghhh.github.io](https://github.com/wanchenghhh/wanchenghhh.github.io)** — 个人网站 · 桌面版作品展示与日常记录 · `HTML`
-  🔗 https://wanchenghhh.github.io/
-
 - 🤖 **[zhixu-knowledge-hub](https://github.com/wanchenghhh/zhixu-knowledge-hub)** — 知序企业知识中台 v1.0：React + FastAPI + LangChain，支持知识导入、检索、重排、流式问答和日志 · `TypeScript`
   🔗 https://zhixu-knowledge-hub-rho.vercel.app
 
@@ -64,8 +61,9 @@
 ## 📝 文章
 
 - [DeepMind Genie 4 发布：自家首个「会说话」的实时世界模型，原生音频意味着什么](https://mp.weixin.qq.com/s/sYqb5vhkI2ku376iYkixaw) — 公众号 · 椀程
-
-<!-- 更多文章持续整理中 -->
+- [GPT-6.1 Terra：电脑操作 Agent 的「更便宜一档」](https://mp.weixin.qq.com/s/x_MJQXRuw2I-Em4hEcf5WQ) — 公众号 · 椀程
+- [Claude 自己绕过付费墙，拿到了佐治亚州选票汇总](https://mp.weixin.qq.com/s/8ShJvmWv7f8KFhFHyrTohA) — 公众号 · 椀程
+- [这不是科幻小说 ——OpenAI 首次披露了一起智能体瞒报事故](https://mp.weixin.qq.com/s/ZrHVtvtX5CC_klPsom6rRw) — 公众号 · 椀程
 
 ---
 
