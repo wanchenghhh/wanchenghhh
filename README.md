@@ -31,9 +31,7 @@ AI 产品经理，喜欢把想法做成可以体验的作品，也记录技术�
 
 ---
 
-## 📝 文章
-
-公众号：**椀程说**
+## 📝 最近在写
 
 - [DeepMind Genie 4 发布：自家首个「会说话」的实时世界模型，原生音频意味着什么](https://mp.weixin.qq.com/s/sYqb5vhkI2ku376iYkixaw)
 - [GPT-6.1 Terra：电脑操作 Agent 的「更便宜一档」](https://mp.weixin.qq.com/s/x_MJQXRuw2I-Em4hEcf5WQ)
