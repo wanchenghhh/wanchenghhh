@@ -12,22 +12,22 @@ AI 产品经理，喜欢把想法做成可以体验的作品，也记录技术�
 
 | 项目名称 | 项目简介 |
 | --- | --- |
-| [zhixu-knowledge-hub](https://github.com/wanchenghhh/zhixu-knowledge-hub) | 知序企业知识中台：支持知识导入、检索、重排和流式问答。 |
-| [SAYO](https://github.com/wanchenghhh/SAYO) | 初入职场沟通伙伴，帮助用户应对职场沟通场景。 |
+| [知序知识中台](https://github.com/wanchenghhh/zhixu-knowledge-hub) | 知序企业知识中台：支持知识导入、检索、重排和流式问答。 |
+| [职场沟通伙伴](https://github.com/wanchenghhh/SAYO) | 初入职场沟通伙伴，帮助用户应对职场沟通场景。 |
 
 ### 🧰 工作流工具
 
 | 项目名称 | 项目简介 |
 | --- | --- |
-| [productbreakingdown](https://github.com/wanchenghhh/productbreakingdown) | AI 产品拆解 Skill，帮助结构化输出产品拆解报告。 |
-| [gis-project-docs](https://github.com/wanchenghhh/gis-project-docs) | GIS 项目文档编写与检查助手，支持实施方案、工作总结与一致性检查。 |
+| [AI 产品拆解](https://github.com/wanchenghhh/productbreakingdown) | AI 产品拆解 Skill，帮助结构化输出产品拆解报告。 |
+| [GIS 项目文档助手](https://github.com/wanchenghhh/gis-project-docs) | GIS 项目文档编写与检查助手，支持实施方案、工作总结与一致性检查。 |
 
 ### 🎨 网页设计
 
 | 项目名称 | 项目简介 |
 | --- | --- |
-| [earth-letters](https://github.com/wanchenghhh/earth-letters) | 地球来信：从太空出发，探索真实地点的影像与地理故事。 |
-| [webpagedesign](https://github.com/wanchenghhh/webpagedesign) | 准了 · 星空产品概念落地页，包含星盘与交互演示。 |
+| [地球来信](https://github.com/wanchenghhh/earth-letters) | 地球来信：从太空出发，探索真实地点的影像与地理故事。 |
+| [准了星空概念页](https://github.com/wanchenghhh/webpagedesign) | 准了 · 星空产品概念落地页，包含星盘与交互演示。 |
 
 ---
 
@@ -44,18 +44,9 @@ AI 产品经理，喜欢把想法做成可以体验的作品，也记录技术�
 
 ## 🏷️ 技能与标签
 
-**专业方向**：AI 产品 · 产品拆解 · GIS · 技术写作 · Web 设计
-
-**前端**：HTML5 · CSS3 · JavaScript · TypeScript · React
-
-**后端与 AI**：Python · FastAPI · Node.js · LangChain · RAG · OpenAI
-
-**数据与部署**：PostgreSQL · Redis · Docker · Vercel · GitHub Pages
-
----
-
-## 🧰 常用工具
-
-- [Pi Agent](https://pi.dev/)：在终端里与 AI 一起工作。
-- [GitHub Pages](https://pages.github.com/)：发布和维护个人网站。
-
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
