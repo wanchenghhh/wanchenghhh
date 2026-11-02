@@ -8,17 +8,29 @@ AI 产品经理，喜欢把想法做成可以体验的作品，也记录技术�
 
 ## 🛠️ 项目
 
-| 项目名称 | 项目简介 |
-| :--- | :--- |
-| **🤖 AI 应用** | |
-| [知序知识中台](https://github.com/wanchenghhh/zhixu-knowledge-hub) | 企业知识中台，支持知识导入、检索、重排和流式问答。 |
-| [职场沟通伙伴](https://github.com/wanchenghhh/SAYO) | 帮助初入职场的用户应对沟通场景。 |
-| **🧰 工作流工具** | |
-| [AI 产品拆解](https://github.com/wanchenghhh/productbreakingdown) | AI 产品拆解 Skill，结构化输出产品拆解报告。 |
-| [GIS 项目文档助手](https://github.com/wanchenghhh/gis-project-docs) | 编写与检查 GIS 项目文档，支持实施方案、工作总结和一致性检查。 |
-| **🎨 网页设计** | |
-| [地球来信](https://github.com/wanchenghhh/earth-letters) | 从太空出发，探索真实地点的影像与地理故事。 |
-| [准了星空概念页](https://github.com/wanchenghhh/webpagedesign) | 星空产品概念落地页，包含星盘与交互演示。 |
+### 🤖 AI 应用
+
+<table>
+  <tr><th width="200" align="left">项目名称</th><th width="700" align="left">项目简介</th></tr>
+  <tr><td><a href="https://github.com/wanchenghhh/zhixu-knowledge-hub">知序知识中台</a></td><td>企业知识中台，支持知识导入、检索、重排和流式问答。</td></tr>
+  <tr><td><a href="https://github.com/wanchenghhh/SAYO">职场沟通伙伴</a></td><td>帮助初入职场的用户应对沟通场景。</td></tr>
+</table>
+
+### 🧰 工作流工具
+
+<table>
+  <tr><th width="200" align="left">项目名称</th><th width="700" align="left">项目简介</th></tr>
+  <tr><td><a href="https://github.com/wanchenghhh/productbreakingdown">AI 产品拆解</a></td><td>AI 产品拆解 Skill，结构化输出产品拆解报告。</td></tr>
+  <tr><td><a href="https://github.com/wanchenghhh/gis-project-docs">GIS 项目文档助手</a></td><td>编写与检查 GIS 项目文档，支持实施方案、工作总结和一致性检查。</td></tr>
+</table>
+
+### 🎨 网页设计
+
+<table>
+  <tr><th width="200" align="left">项目名称</th><th width="700" align="left">项目简介</th></tr>
+  <tr><td><a href="https://github.com/wanchenghhh/earth-letters">地球来信</a></td><td>从太空出发，探索真实地点的影像与地理故事。</td></tr>
+  <tr><td><a href="https://github.com/wanchenghhh/webpagedesign">准了星空概念页</a></td><td>星空产品概念落地页，包含星盘与交互演示。</td></tr>
+</table>
 
 ---
 
