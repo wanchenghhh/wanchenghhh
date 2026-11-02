@@ -6,8 +6,7 @@ AI 产品经理，喜欢把想法做成可以体验的作品，也记录技术�
 
 🌐 [个人网站](https://wanchenghhh.github.io/) · 📝 公众号：椀程说 · 📮 yangwanchengchn@163.com
 
-🔭 **正在做：** 企业知识中台（RAG）、AI work 工作台
-
+🔭 **正在做：** 企业知识中台（RAG）、AI work 工作台 
 🧭 **关注：** Agent、世界模型、AI 产品体验  
 🎯 **擅长：** 需求分析 → 原型 → 自己做出可运行的 Demo
 
