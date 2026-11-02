@@ -1,4 +1,4 @@
-# 👋 HI, I AM WANCHENG
+# 👋 Hi, I am wancheng
 
 > **自由的像空气** · 以好奇为起点，把想法变成现实。
 
